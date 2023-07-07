@@ -1,0 +1,3 @@
+[submodule "sh/sh/demo"]
+	path = sh/sh/demo
+	url = https://github.com/PrithiyaP/demo.git
